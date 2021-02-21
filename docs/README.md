@@ -6,7 +6,7 @@ heroImage: /utils.jpg
 # 按钮文本
 actionText: 开始学习 →
 # 按钮点击跳转路径
-actionLink: /chapter1/01_工具函数库说明
+actionLink: /chapter1/test
 
 features: 
 - title: 技术提升
